@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH 2 Alarm Clock GUI/1.0.0": {
+        "runtime": {
+          "CH 2 Alarm Clock GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH 2 Alarm Clock GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

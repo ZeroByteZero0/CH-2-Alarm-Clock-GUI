@@ -1,0 +1,17 @@
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\bin\Debug\net6.0-windows\CH 2 Alarm Clock GUI.exe
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\bin\Debug\net6.0-windows\CH 2 Alarm Clock GUI.deps.json
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\bin\Debug\net6.0-windows\CH 2 Alarm Clock GUI.runtimeconfig.json
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\bin\Debug\net6.0-windows\CH 2 Alarm Clock GUI.dll
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\bin\Debug\net6.0-windows\CH 2 Alarm Clock GUI.pdb
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.vbproj.AssemblyReference.cache
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH_2_Alarm_Clock_GUI.Form1.resources
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.vbproj.GenerateResource.cache
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.AssemblyInfoInputs.cache
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.AssemblyInfo.vb
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.vbproj.CoreCompileInputs.cache
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.dll
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\refint\CH 2 Alarm Clock GUI.dll
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.pdb
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\CH 2 Alarm Clock GUI.genruntimeconfig.cache
+C:\Users\mj_J\OneDrive\Documents\CS7 (Intro to Visual BASIC)\HW\CH 2 Alarm Clock GUI\obj\Debug\net6.0-windows\ref\CH 2 Alarm Clock GUI.dll
